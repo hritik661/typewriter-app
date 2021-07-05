@@ -1,1 +1,3 @@
 hosted link:- https://hritik661.github.io/typewriter-app/
+
+Note:- this work only desktop/laptop
